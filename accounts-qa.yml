@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to Ankit accounts related Qa APIs "
   contactDetails:
     name: "Ankit - Dev Lead"
     email: "ankit.bhimjiyani@github.com"
